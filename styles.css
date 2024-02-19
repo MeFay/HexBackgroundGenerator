@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --main-color1: #0f0f16;
+}
+
+html,
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-size: 20px;
+}
+
+#colorPicker {
+  background-color: transparent;
+  border: none;
+}
